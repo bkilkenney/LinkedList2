@@ -1,0 +1,6 @@
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\LinkedList2\LinkedList2\bin\Debug\LinkedList2.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\LinkedList2\LinkedList2\bin\Debug\LinkedList2.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\LinkedList2\LinkedList2\bin\Debug\LinkedList2.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\LinkedList2\LinkedList2\obj\Debug\LinkedList2.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\LinkedList2\LinkedList2\obj\Debug\LinkedList2.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\LinkedList2\LinkedList2\obj\Debug\LinkedList2.pdb
